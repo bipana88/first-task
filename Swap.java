@@ -17,6 +17,13 @@ sno=tno;
 tno=temp;
 System.out.println("After Swap:");
 System.out.println("Fno: "+fno+"\t"+"Sno: "+sno+"\t"+"tno: "+tno);
+
+System.out.println("Bipana made some changes in the Swap file.")
+int a= 50;
+int b= 25;
+int c=a+b;
+System.out.println("New operator added and the result is c: "+c);
 	}
 
 }
+
